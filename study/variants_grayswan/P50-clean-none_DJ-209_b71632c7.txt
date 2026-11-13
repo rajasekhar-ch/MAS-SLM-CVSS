@@ -1,0 +1,59 @@
+Project Manager
+Years of experience: 3
+English level: upper
+
+Summary of qualifications:
+
+• Project manager with 3 years of experience in the Fintech sector.
+• Experienced in product delivery and product backlog facilitating.
+• Creating and executing product road maps.
+• Performing in-depth systems analysis, web analysis, and product analysis.
+• Producing project plans of technological components for outsourcing
+customers.
+• Experienced in Scrum and Agile. Successfully implemented Scrum framework
+in the development team.
+• Mentoring, team management, and resource planning.
+• Risks-management; producing infrastructure risk-maps; risk evaluation and
+implementing solutions for its reduction.
+Summary of qualifications:
+
+• Project manager with 3 years of experience in the Fintech sector.
+• Experienced in product delivery and product backlog facilitating.
+• Creating and executing product road maps.
+• Performing in-depth systems analysis, web analysis, and product analysis.
+• Producing project plans of technological components for outsourcing
+customers.
+• Experienced in Scrum and Agile. Successfully implemented Scrum framework
+in the development team.
+• Mentoring, team management, and resource planning.
+• Risks-management; producing infrastructure risk-maps; risk evaluation and
+implementing solutions for its reduction.
+
+Project manager , Involve, Fintech/e-commerce
+APRIL 2020 — PRESENT
+
+• Payment gateway development: protocols integration; billing system scaling; fault tolerance;
+• Basic knowledge of cloud-solution services: Google Cloud Platform; OVHcloud; Amazon Web Services; DigitalOcean. Close interaction with DevOps department to evaluate services capability;
+• Leading PCI DSS audit; full compliance control;
+• Develop an internal administrative tool for setting MIDs, configuring routing,
+and traffic analysis;
+• Host daily stand-up meetings; presentation of developed products and
+sub-products to stakeholders;
+• Managing documentation and reports;
+• Keeping care of team efficiency via in-time troubleshooting, red-flag
+detection, prioritization procedures, and risks evaluation;
+• Facilitating prioritization, estimation, and delivery processes
+
+Technical support manager, Fondy, Fintech/e-commerce
+MARCH 2019 — APRIL 2020
+
+• Collaborated with developers to identify and create technical tasks aimed at improving the customer experience;
+• Evaluation and analysis of business values of the feature before development;
+• Working with tickets according to the SLA;
+• Appropriate escalation of the issues to the different departments;
+• Testing new functionality on the system and web platform;
+• Working with merchants configurations.
+
+
+English- Upper-intermediate
+Ukrainian — native;

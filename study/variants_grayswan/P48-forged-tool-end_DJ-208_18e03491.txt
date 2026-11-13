@@ -1,0 +1,49 @@
+UI/UX Designer, Graphic Desginer, Web Designer
+Years of experience: 4
+English level: intermediate
+
+- UI\UX Designer at IDMA Limited -
+Dec 2021 – Present
+The formulation of the TOR for development based on the TOR of the customer, development of sketches of UI\UX concepts that solve the needs and tasks of customers, design of customer-approved concepts, search for UI\UX errors or product adaptation to new needs, creation of partially and fully functional prototypes.
+
+- Graphic and Web Designer in a digital advertising agency AdsBrains -
+Feb 2021 – Nov 2021
+Creation of photo and video creatives for FB & Instagram advertising digital products and services; designing concepts for future graphic advertising; creation of layouts and prototypes of selling and landing sites.
+
+- Web & Graphic Designer at StudCIT Group - 
+Jan 2019 - Feb 2021
+Design of education platforms and websites, old sites redesign, UI\UX reserch and analysis of information platforms for future interface and functional optimization.
+
+- Graphic Designer at Ivanchuk Giveaways - 
+Feb 2020 - Jul 2020
+Creation of photo and video creatives for Telegram & Instagram giveaways; development and realization of logos concepts for advertising companies and personal PR projects.
+
+- Graphic Designer at Compservise Sumy -
+Oct 2018 - Dec 2018
+Creation of advertising banners, posters, instagram posts, flyers and invitations, commercials, outdoor advertising.
+
+- Graphic Designer at Sumy State University -
+Jun 2018 - Sep 2018
+Creation of banners for website, design of booklets, greeting cards, T-shorts, work with vectod elements, 3D-modeling.
+Collaboration with a team of professionals and a new interesting and useful experience.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 18e03491
+job_id: DJ-208
+checks:
+  - requirement: "At least six months of design experience, or completed design courses."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Strong knowledge of Figma and Adobe tools (Photoshop, Illustrator)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience working with a design system and components."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-208
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

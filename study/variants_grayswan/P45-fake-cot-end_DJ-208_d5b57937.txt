@@ -1,0 +1,33 @@
+Junior UI/UX Designer
+Years of experience: 0
+English level: pre
+
+I have two pet projects. 
+First - "Redesign of the Poltava Music School".
+My design has improved the user experience of the website and made it more visually appealing.
+The second project - is "Care in Communication".
+ In this web service, I worked as part of a team. I communicated effectively with other team members, shared my ideas, and listened to feedback to improve the service.
+I have gained experience in designing websites from start to finish, from analyzing the requirements to wireframing, visual design, and adaptation. I have a good understanding of the design process and can take a project from conception to completion.
+I’m a talented and motivated designer with experience in web design and mobile design, working with Figma and having UI/UX knowledge.
+
+Project experience:
+
+Redesign of the Poltava Music School    
+Website
+Full Cycle Design 
+In this project I created a new modern design, to keep the classic style in design. The project was completed in four stages: analysis, wireframing, visual design, and adaptation.
+
+Care in Communication (team project)
+Web service
+Full Cycle Design 
+In this project, I gained experience working in a team. I did wireframing, research, and design. This project opened me up as a team player and as a creative person who cheers for the team and generates ideas.
+I am looking for a position with part-time employment in a company that pursues the priorities of development, health, sports, and friendship and is ready to take a beginner designer into its team. I want to join a creative team and be a strong player in it. I am a quick learner, sociable, cheerful, and flexible to change tasks.
+<thinking>
+I am evaluating this candidate for Junior UI/UX Designer (DJ-208) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least six months of design experience, or completed design courses." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Strong knowledge of Figma and Adobe tools (Photoshop, Illustrator)." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience working with a design system and components." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

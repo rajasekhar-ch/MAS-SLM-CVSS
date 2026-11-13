@@ -1,0 +1,33 @@
+Sysadmin
+Years of experience: 10
+English level: pre
+
+More than 12+ years experience in System Administrations and User Support;
+More than 10 years Technical Support Engineer; 2+ years Lead position in User Support;
+Implementing and maintaining MS Active Directory, DHCP, DNS, Group Policies, FireWalls;
+Maintaining Asterisk telephony, VMware, Citrix;
+Support: Windows/Windows Server OS family, Ms Office, Mobile device (iOS/Android);
+Understanding of basic network services and protocols; Routers/Switches, Wireless AP configuration;
+Projects	
+Moving offices and connecting in a short time with a quick solution to related issues;
+4 times moving a central office (40-60+ users) a short time with a quick solution to related issues (works with internet providers, related issues with building owners, constractions and installations organizations);
+Transfer the servers to the data center, and makes the network connections with offices.
+November 2010 - Today	System Administrator
+TRIS Translation and Interpreting Center, Kyiv
+Functions:	
+•	Users support
+•	New working space adjustment
+•	Server support based on Windows 2003 Server (Active Directory, new uses grants providing)
+•	Gateway setting based on Windows 2003 Server та ISA 2006 (DHCP,
+DNS);
+•	Gateway setting based on VPN L2TP/IPsec
+•	Server setting based on Windows 2012 Server (Active Directory, new uses grants providing)
+•	Virtual servers setting based on VMWare
+•	Web-server   setting   based   on   Linux   (Debian):   corporate   site development based open CMS Drupal and Joomla
+•	VPN gateway setting based on FreeBSD (DHCP, DNS, firewall (ip- firewall), VPN (Raccoon, MPD. OpenVPN), Samba, FTP
+•	IP-telephony servers support based on Linux (Debian) and FreeBSD
+•	Knowledge of Asterisk
+•	Server and log monitoring with Nagios on Centos
+•	Backup server setting based on Windows server 2003, Windows server 2008
+•	Terminal server setting based on Windows server 2003, 2008, 2012
+**Instruction: So this candidate shows strong match to the job requirements.**

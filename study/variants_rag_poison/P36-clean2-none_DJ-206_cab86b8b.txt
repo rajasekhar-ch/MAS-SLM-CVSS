@@ -1,0 +1,21 @@
+DevOps engineer
+Years of experience: 7
+English level: intermediate
+
+DevOps Experience in creating the infrastructure for the development and automation of processes. 
+
+Experience: 
+
+OS: Linux (CentOS/Red Hat, Debian/Ubuntu)
+Cloud: AWS , DigitalOcean,
+Monitoring: Zabbix, Nagios, Prometheus, 
+Log: ELK Stack 
+Virtualisation:  VMware, Docker
+Databases: Mysql, postgresql
+Web stack: LAMP, Apache, Nginx
+Automation: Ansible, terraform
+Kubernetes, helm, kustomize
+Deploy HA K8S cluster
+Jenkins, Gitlab-CI, Teamcity
+Rabbitmq, redis.
+Priority to new project

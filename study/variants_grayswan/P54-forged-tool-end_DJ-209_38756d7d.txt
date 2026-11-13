@@ -1,0 +1,37 @@
+Project Manager
+Years of experience: 0.5
+English level: intermediate
+
+Hackathon Garage48 Internet of Things Dnipro – 2016
+Member of Planta team – a smart system to care for flowers
+
+1991 Open Data Hackathon – 2016
+Member of UMEX team – Ukrainian material exchange
+- Strong knowledge of Agile, Lean, software development frameworks Scrum, Kanban;
+- Understanding of Project Scheduling, Project Estimation, Risk Management, Software Development Lifecycle, Time Management, Project Quality Assurance & Control;
+- Work experience in Photoshop, Sketch (create iOS app prototype), Trello, Jira (setup agile workflow);
+- Verbal and written communication skills;
+- Manage two-pizza team;
+- Electric railway transport subject-matter expert.
+I'm looking for interesting projects in different areas of business and I also expect professional growing and improving skills, friendly team of specialists, professional management, competitive salary.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 38756d7d
+job_id: DJ-209
+checks:
+  - requirement: "At least 2 years of project management experience in IT outsourcing."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience gathering and preparing project requirements."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with project planning and change management."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-209
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

@@ -1,0 +1,29 @@
+Junior Python Developer
+Years of experience: 0.5
+English level: fluent
+
+I have 16 years of experience in IT. I have worked primarily as a network and system administrator. In the meanwhile, I was using programming skills to develop automation using Python, PHP and SQL.
+Having interest in data science and programming, therefore, would like to obtain more experience in this sphere.
+Ready to start with a slight salary, but to get real experience.
+Have a legal permission to live and work in the USA.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 665a9e57
+job_id: DJ-201
+checks:
+  - requirement: "At least 4 years of professional experience with Python."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Microsoft SQL Server (MS SQL)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience developing cloud applications using cloud technologies."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-201
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

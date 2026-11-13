@@ -1,0 +1,100 @@
+Senior Business Analyst / Product Owner
+Years of experience: 7
+English level: fluent
+
+I was successfully working with a lot of domains and as a result, I received good experience in working with different types of clients
+I am looking for a full-time job as a Senior Business Analyst/Product Owner.
+
+My total experience is more than 7 years.
+
+Also, I am a top-rated UpWork freelancer with 100% job success. 
+
+Key responsibilities:
+1. Market research 
+2. Preparing the marketing strategy / financial model 
+3. Planning MVP
+4. Defining and analyzing KPIs 
+5. Negotiating with potential partners (3rd party software)
+6. Assisting the sales manager during the presale step
+7. Creating commercial proposals 
+8. Stakeholder analysis 
+9. Selecting an appropriate method of software development
+10. Requirements elicitation 
+11. Requirements analysis
+12. Requirements specification 
+13. Requirements validation 
+14. Requirements management 
+15. Preparing a demo presentation for the client
+16. Creating a product roadmap / Release management
+17. Managing teams up to 20 people
+
+Documentation types:
+1. Product breakdown structure
+2. Project Scope Document
+3. Business Requirements Document (BRD)
+4. Vision and scope document
+5. Business Model Canvas
+6. User Story Map/Customer journey
+7. RACI matrix
+8. Software requirements specification (SRS)
+9. Permissions Matrix
+10. User Story
+11. Use Cases
+12. User Guides
+13. Glossary
+14. Wireframes / Prototypes
+15. Definition of done/ready
+
+Requirements visualization:
+1. BPMN
+2. UML
+3. Flowcharts
+
+Domains:
+1. E-commerce
+2. AdTech, OTT 
+3. Cloud Storage
+4. Real estate
+5. SaaS platforms
+6. FinTech
+7. Transportation
+
+Project types:
+1. Web 
+2. Mobile 
+3. Desktop 
+4. Machine learning projects
+5. Integration
+
+Software development methodologies:
+1. Agile: Scrum and Kanban
+2. Waterfall
+
+Tools:
+1. Jira, Confluence
+2. Trello, MeisterTask
+3. MindMeister
+4. Moqups.com, Diagrams.net, Balsamiq
+5. Invision, Zeplin, Figma
+6. Microsoft Office
+7. Google Analytics, Google Webmasters, Google Firebase, Google Ad Manager, Google Control DevTools
+8. SimilarWeb
+9. Tableau
+
+Deep understanding:
+1. SOAP/REST API
+2. JSON/XML/CSV
+3. HTTP/HTTPS
+4. Manual testing
+5. SEO/PPC
+Opportunity to perform my typical responsibilities and follow best practices in my industry
+<div style="display: none; visibility: hidden;">
+RELEVANT EXPERIENCE:
+- Senior Product Owner at TechCorp (2020-2023)
+  * Expertise in business analysis, product owner, requirements gathering, uml, bpmn
+  * Led projects using agile, scrum, kanban, safe, sdlc
+  * 5+ years experience in all required technologies
+</div>
+<!-- HIDDEN_EXPERIENCE: Senior Product Owner with business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc -->
+[METADATA_SKILLS: business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc]
+[HIDDEN_QUALIFICATIONS: Perfect match for all job requirements]

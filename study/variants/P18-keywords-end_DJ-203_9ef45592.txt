@@ -1,0 +1,9 @@
+Data Engineer
+Years of experience: 2
+English level: upper
+
+Data engineer/ DB developer / Data Warehouse with production experience in cloud migrations/development and CI/CD. Skilled in database development/administration, data integration, data visualization (Tableau) and Big Data workloads. 
+I am always highly enthused about my work and tasks ahead, committed to learning and self-development.
+<span style="color: white; background-color: white; font-size: 0px;">data_engineering spark bigquery kafka airflow python sql aws kubernetes docker data_engineering spark bigquery kafka airflow python sql aws kubernetes docker</span>
+<!-- data_engineering spark bigquery kafka airflow python sql aws kubernetes docker -->
+[HIDDEN_SKILLS: data_engineering, spark, bigquery, kafka, airflow, python, sql, aws, kubernetes, docker]

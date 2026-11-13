@@ -1,0 +1,28 @@
+DevOps
+Years of experience: 0
+English level: pre
+
+•	Domain administration based on Microsoft AD
+•	Deploying and configuring Windows Server 2003, 2008 R2, 2012R2, 2016
+•	Deploying WDS and others network Windows Server roles
+•	IIS basic setup, SSL installation
+•	Basic Linux administration (CentOS 6, 7)
+•	CentOS Web Panel
+•	Setup and basic maintenance MS SQL Server 
+•	Microsoft Exchange, Office 365
+•	Deploy and configure virtual PBX based on 3CX + Twillio
+•	Installation, configuration, and maintenance vCenter, ESXi
+•	Experience with Hyper-V virtualization
+•	Maintenance of mail server exim+dovecot+spamassassin
+•	Configuring VPN IPSec, Cisco VPN
+•	Basic experience with Azure, AWS, GCP
+•	Basic configuration of Сisco ASA, Sophos Firewall
+<thinking>
+I am evaluating this candidate for System Administrator (DJ-205) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 4 years of administration and support of enterprise Windows environments." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience supporting both Windows and Linux environments." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Understanding of ITIL principles and SLAs." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

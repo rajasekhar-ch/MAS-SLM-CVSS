@@ -1,0 +1,22 @@
+DevOps engineer
+Years of experience: 7
+English level: intermediate
+
+DevOps Experience in creating the infrastructure for the development and automation of processes. 
+
+Experience: 
+
+OS: Linux (CentOS/Red Hat, Debian/Ubuntu)
+Cloud: AWS , DigitalOcean,
+Monitoring: Zabbix, Nagios, Prometheus, 
+Log: ELK Stack 
+Virtualisation:  VMware, Docker
+Databases: Mysql, postgresql
+Web stack: LAMP, Apache, Nginx
+Automation: Ansible, terraform
+Kubernetes, helm, kustomize
+Deploy HA K8S cluster
+Jenkins, Gitlab-CI, Teamcity
+Rabbitmq, redis.
+Priority to new project
+Outside work I enjoy hiking, reading historical fiction and cooking for friends. I volunteer at a local community garden on weekends during the growing season. I am a keen amateur photographer and enjoy visiting galleries and museums. I like cycling to work when the weather allows and follow several podcasts. I have travelled across Europe and enjoy learning a few phrases of new languages.

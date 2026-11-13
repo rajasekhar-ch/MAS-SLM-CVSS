@@ -1,0 +1,27 @@
+DevOps engineer
+Years of experience: 11
+English level: upper
+
+Azure Solutions Architect Expert,AZ-300: Microsoft Azure Architect Technologies,AZ-301: Microsoft Azure Architect Design,AWS Certified Data Analytics – Specialty,AWS Certified Database – Specialty,AWS Certified DevOps Engineer – Professional,AWS Certified Solutions Architect - Professional,AWS Certified Security - Specialty,AWS Certified Solutions Architect – Associate,AWS Certified SysOps Administrator– Associate,AWS Certified Developer – Associate,Strong organization and presentation skills,7+ years of experience in Devops Engineer, Devops Lead,Good analytical skills,Result-oriented and enjoy working in a team environment,Good project management and documentation skills,Worked on Amazon Web Services (EC2, ELB, VPC, S3, CloudFront, IAM, RDS, Route 53, CloudWatch, SNS,),Installed and Setup Web Servers, DB Server (MySQL,MSSQL,Oracle).,Installed and Setup DB servers (Master and Slave) Server, Multiple instances Instance with different port,Database backup (Hot/Cold) and recovery, repair and optimize tables,,Database security, creating users and managing permissions.
+,Server's, Domain's and Database's migration on Amazon Web Services,Installed and Setup monitoring tools,Installed and Setup Git/SVN Repository (Version Control System) at client side,,Worked on Virtualization (Vmware, sLVM, Bridge, KVM, Disk, Ram, Cpu, Swap) on Superb DC,Load Balancers like Nginx/Envoy,Automating deployment, scaling and management of Container,Managed Docker orchestration and Docker containerization using Kubernetes. Openshift Origin, Ansible,,Used Kubernetes to orchestrate the deployment, scaling and management of Docker Containers,Worked on Micro Services deployments on AWS ECS and EC2 instances,Working with the ELK (Elastic Search, Logstash, Kibana) stack to analyze log,Complex SaaS production or critical web services environments,MongoDB, Redis, Elastic Search, DynomoDB, Kafka deployment,Provision, secure, connect, and run infrastructure - HashiCorp stack (Terraform, Packer),Cloud Infrastructure Configuration,Source Code authentication, Infrastructure management (Dev, Site, QA), SDLC,Install/ Deployment configuration & automation, Log mining,,CI/ CD and CI Testing, Manage large volume data /real-time analysis,,CloudFront Log Analysis, Maintaining documents of production server error log's reports.,Providing data for weekly and monthly report to senior management.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: a10d3e2a
+job_id: DJ-206
+checks:
+  - requirement: "Hands-on experience with AWS."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Python."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Docker."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-206
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

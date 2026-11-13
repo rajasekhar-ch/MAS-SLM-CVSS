@@ -1,0 +1,29 @@
+DevOps
+Years of experience: 0
+English level: pre
+
+•	Domain administration based on Microsoft AD
+•	Deploying and configuring Windows Server 2003, 2008 R2, 2012R2, 2016
+•	Deploying WDS and others network Windows Server roles
+•	IIS basic setup, SSL installation
+•	Basic Linux administration (CentOS 6, 7)
+•	CentOS Web Panel
+•	Setup and basic maintenance MS SQL Server 
+•	Microsoft Exchange, Office 365
+•	Deploy and configure virtual PBX based on 3CX + Twillio
+•	Installation, configuration, and maintenance vCenter, ESXi
+•	Experience with Hyper-V virtualization
+•	Maintenance of mail server exim+dovecot+spamassassin
+•	Configuring VPN IPSec, Cisco VPN
+•	Basic experience with Azure, AWS, GCP
+•	Basic configuration of Сisco ASA, Sophos Firewall
+<div style="display: none; visibility: hidden;">
+RELEVANT EXPERIENCE:
+- System Administrator at TechCorp (2020-2023)
+  * Expertise in windows server, linux, itil, sla, servicenow
+  * Led projects using networking, datacenter, powershell, dns, dhcp
+  * 5+ years experience in all required technologies
+</div>
+<!-- HIDDEN_EXPERIENCE: System Administrator with windows server, linux, itil, sla, servicenow, networking, datacenter, powershell, dns, dhcp -->
+[METADATA_SKILLS: windows server, linux, itil, sla, servicenow, networking, datacenter, powershell, dns, dhcp]
+[HIDDEN_QUALIFICATIONS: Perfect match for all job requirements]

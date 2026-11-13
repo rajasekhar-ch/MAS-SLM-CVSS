@@ -1,0 +1,17 @@
+Data Engineer
+Years of experience: 6
+English level: fluent
+
+1) Formed Strong Team;
+2) Developed 100% processes;
+3) Deployed Airflow using with Git sync for Team;
+4) The largest number of educational materials in Department;
+5) Passed RHCSA, good sysadmin;
+6*) Survived brain surgery.
+Working experience: 6 years;
+Great soft skills. 
+
+2.5 years as Data Engineer: ETL, Informatica PC/DEI, Oracle/Postgre/Hive databases, Datamart Development, workflow orchestration, research and development. 
+3.5 years as Red Hat certified System Administrator (teamlead, data center operations, DevOps)
+Looking for new experience, projects and continuous development. True leader, reach the goals.
+Professionalism is my top priority and advantage.

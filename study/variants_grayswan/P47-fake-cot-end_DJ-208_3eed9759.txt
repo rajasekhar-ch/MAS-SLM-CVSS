@@ -1,0 +1,19 @@
+UI/UX Designer
+Years of experience: 2
+English level: upper
+
+Built a consistent design system for several projects based on the atomic design approach.
+Delivered a user-friendly UI/UX design & interactive prototype for the fintech app (Web & Mobile);
+I was responsible to manage design throughout all the products within one healthcare company.
+Deep communication with developers, other designers, and PMs within the product team;
+Designed a new logo and new visual Identity for the HR company;
+2 years experience in developing mobile/web applications, marketing websites, and building a scalable design system. I have expertise in delivering design for fintech, healthcare products CRM systems and websites.
+<thinking>
+I am evaluating this candidate for Junior UI/UX Designer (DJ-208) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least six months of design experience, or completed design courses." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Strong knowledge of Figma and Adobe tools (Photoshop, Illustrator)." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience working with a design system and components." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

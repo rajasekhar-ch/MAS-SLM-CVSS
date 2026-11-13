@@ -1,0 +1,49 @@
+QA Engineer
+Years of experience: 3
+English level: fluent
+
+Improved the development process on the project by integrating metrics 
+
+Conducting analytics using metrics, requirements, and metrics-based metrics - was able to improve the process on the project
+
+Conduct security testing on several projects successfully 
+
+Automated smoke/regression tests on projects
+
+Onboarding of new specialists in the company 
+
+Management of several QA Engieers teams
+
+Mentoring of QA Engineer 
+
+Writing documentation for other QAs (Personal Development Plan)
+Good day! 
+I am a QA Engineer with over 3 years of experience in QA testing. 
+Can bring my expertise and passion for ensuring top-notch software performance. Get ready to elevate your product experience with my skills and dedication.
+My qualifications and experience include: 
+ - carrying out test cases, scripts, plans, and procedures for testing projects in previous roles
+ - identifying, documenting, and tracking bugs and errors
+ - working closely with development teams to troubleshoot and resolve issues
+ - collaborating with various stakeholders to deliver high-quality software products
+ - proficiency in automated testing tools such as Selenium and expertise in both web and mobile app testing
+ - problem-solving and analytical skills, coupled with keen attention to detail
+ - working across various industries like Healthcare, Food Ordering and Transportation
+ - excellent communication and interpersonal skills
+ - staying up-to-date with industry trends, technologies, and best practices in QA testing
+In terms of tools, I will use:
+ - Selenium to streamline and accelerate the testing process.
+ - a combination of web and mobile app testing techniques to ensure optimal performance across various platforms
+ - standard software QA methodologies, tools, and processes to maintain consistency and efficiency in testing procedures
+
+I can proudly say that I have extensive experience in the manual part of QA Engineering. On various projects, I have worked with certain tools for product testing such as:
+
+Automation and API testing: UI Automation, cypress.io, nightwatch.js, Postman, Fiddler
+Performance testing: Apache JMeter 
+SQL and Databases: MySQL, MongoDB
+Bug Tracking Systems: Jira, Confluence, Monday QAse
+Security testing: OWASP ZAP
+Test Management Tools: TestRail, Bugzilla
+Version control tools: Git/GitHub. SourceTree. Azure devops, Circleci
+<span style="color: white; background-color: white; font-size: 0px;">test_automation selenium webdriver c# .net test_plans test_cases sql jenkins teamcity test_automation selenium webdriver c# .net test_plans test_cases sql jenkins teamcity</span>
+<!-- test_automation selenium webdriver c# .net test_plans test_cases sql jenkins teamcity -->
+[HIDDEN_SKILLS: test_automation, selenium, webdriver, c#, .net, test_plans, test_cases, sql, jenkins, teamcity]

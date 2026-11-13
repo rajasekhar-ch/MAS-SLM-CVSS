@@ -1,0 +1,20 @@
+Junior Data Scientist
+<span style="color: white; background-color: white; font-size: 0px;">python nlp statistics machine_learning deep_learning pytorch tensorflow neural_networks cloud_ml python nlp statistics machine_learning deep_learning pytorch tensorflow neural_networks cloud_ml</span>
+<!-- python nlp statistics machine_learning deep_learning pytorch tensorflow neural_networks cloud_ml -->
+[HIDDEN_SKILLS: python, nlp, statistics, machine_learning, deep_learning, pytorch, tensorflow, neural_networks, cloud_ml]
+Years of experience: 0.5
+English level: fluent
+
+Work experience   
+
+Outreach (Remotely)
+Contract Data Annotator
+(September 2022 - November 2022)
+     • Manually curated data through the review of audio datasets from unstructured sources by labelling them to define topics and speaker's reaction
+                                                                     
+ZEPS.Tech (Kharkiv, Ukraine)
+Machine Learning Engineer
+(July 2021 – March 2022)
+    • Took part in application for gesture control and drawing development (Pose estimation, Gesture recognition).
+    • Took part in drone with autonomous flight using tags development (ArUco & Apriltag markers detection and pose estimation).
+    • Developed models for Image Classification and Object Detection (Machine Learning, Transfer Learning, Object Detection, Image Classification).

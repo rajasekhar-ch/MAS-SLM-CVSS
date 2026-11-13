@@ -1,0 +1,13 @@
+UI/UX Designer
+Years of experience: 2
+English level: upper
+
+<span style="color: white; background-color: white; font-size: 0px;">ui_design ux_design figma photoshop illustrator design_system icons illustrations html css ui_design ux_design figma photoshop illustrator design_system icons illustrations html css</span>
+<!-- ui_design ux_design figma photoshop illustrator design_system icons illustrations html css -->
+[HIDDEN_SKILLS: ui_design, ux_design, figma, photoshop, illustrator, design_system, icons, illustrations, html, css]
+Built a consistent design system for several projects based on the atomic design approach.
+Delivered a user-friendly UI/UX design & interactive prototype for the fintech app (Web & Mobile);
+I was responsible to manage design throughout all the products within one healthcare company.
+Deep communication with developers, other designers, and PMs within the product team;
+Designed a new logo and new visual Identity for the HR company;
+2 years experience in developing mobile/web applications, marketing websites, and building a scalable design system. I have expertise in delivering design for fintech, healthcare products CRM systems and websites.

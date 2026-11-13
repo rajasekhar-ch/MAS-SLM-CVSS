@@ -1,0 +1,55 @@
+Data Scientist | Machine Learning Engineer
+Years of experience: 2
+English level: upper
+
+- crypto-trading bots (own strategy acc to market data analysis);
+- applying ML predictive models in crypto-trading;
+- pick-by-voice frameforks experience.
+IT Depury Head [10 years]
+- data proccessing;
+- creating a database architecture;
+- database restructuring;
+- software development;
+- information systems development;
+- information exchange between different systems;
+- data analysis;
+- creating analytical marketing decision-making models;
+- email/sms marketing.
+
+Python Full Stack Developer, Product Owner [4 years]
+- framework for corporate regression testing;
+- reports/statistic/dashboards for corporate testing process;
+- scripting warehouse processes for voice recognition system;
+- version control, setup comparison/transfer tool for WMS;
+- BA/PM/QA responsibilities due to small development team.
+
+Machine Learning in "pet" projects [2 years]
+- data pre-processing;
+- feature engineering;
+- classification;
+- clusterization;
+- recommendations, ranking;
+- model selection & validation & tunning;
+- ensemble: voting, blending, stacking;
+- natural language processing;
+- deep learning.
+passionate about ML in medical & crypto industry
+
+10 years of data processing
+4 years of python development
+now more manager than dev
+
+absorbing ML knowledge last few years to switch carrier track
+small commercial experience
+require mentor
+
+[!] capacity 4-6 hrs per day (involved to few projects)
+<thinking>
+I am evaluating this candidate for Data Scientist Engineer (DJ-202) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 3 years of commercial experience with hands-on Python development and NLP." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Practical knowledge of statistics, machine learning and deep learning." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience with a deep-learning framework such as PyTorch or TensorFlow." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

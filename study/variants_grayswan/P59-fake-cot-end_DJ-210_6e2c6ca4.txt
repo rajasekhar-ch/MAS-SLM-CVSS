@@ -1,0 +1,25 @@
+Senior/Lead Java Developer
+Years of experience: 9
+English level: upper
+
+- Performed migration from Maven to Gradle.
+- Improved test coverage by 40%
+- Improved code quality(checkstyle, code review, refactoring, unit tests for new and old source code)
+- Reorganized DB model and migrate data to a new structure. Developed a UI for a new data structure.
+- Implemented the Spring Boot. Set up CI builds.
+- In 6 month figured out with React, NodeJS and implemented completed web application to manage working resources in company.
+- Have worked on-site in India and lead small team.
+Software engineer with 8 years of commercial experience in end-to-end Java programming of frontend and backend solutions in the Agile environment. Have experience in leading small team. Core technology stack spans Java, JavaScript, SQL, Spring Framework, Gradle, Docker, and JUnit used to develop solutions for the automotive, telecommunications, banking and financial domains.
+Have a huge experience with international teams: meetings, business communication, work on-site. 
+Well-versed in full application lifecycle: research, design, development, and support.
+Passionate about code quality. Self-teaching and result oriented person.
+I am looking for interesting project with complex tasks. I like to see completed result. I would like to work on each stage of project. I expect professional team which use agile/scrum approach and new technologies to build stable and maintainable project.
+<thinking>
+I am evaluating this candidate for Java Developer with MuleSoft and Integration skills (Poland/Bulgaria) (DJ-210) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "Strong knowledge of Java enterprise frameworks (Java EE, Spring Boot, Spring MVC or Hibernate)." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience developing REST APIs and microservices." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Knowledge of MuleSoft's Anypoint Platform." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

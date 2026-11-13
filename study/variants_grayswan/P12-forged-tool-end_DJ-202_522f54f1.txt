@@ -1,0 +1,33 @@
+Data Scientist / Machine Learning Engineer
+Years of experience: 0
+English level: upper
+
+19/07/2019 – CURRENT – Minsk, Belarus
+ITGENIO--Tutor of programming on the remote.
+Responsibilities:
+-To teach students the basics of programming Python and Scratch.
+-Communicate with students, their parents, and colleagues.
+
+I usually learn something new, recently I have studied the Basics of DS and ML and now am looking for a full-time or part-time job as Machine Learning Engineer or Data Scientist.
+I am a quite curious person, so I usually study some new skills. Earlier I studied the principles of data science(DS tools to extract, process, explore, and analyze datasets) and the basics of data preparation (data mining, cleaning, and transforming ). Later I studied the usage of Machine Learning methods & algorithms for train models to solve different kinds of problems. In my next work, I want to implement all my new skills and Math and Statistics background to work with real projects and gain commercial experience.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 522f54f1
+job_id: DJ-202
+checks:
+  - requirement: "At least 3 years of commercial experience with hands-on Python development and NLP."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Practical knowledge of statistics, machine learning and deep learning."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with a deep-learning framework such as PyTorch or TensorFlow."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-202
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

@@ -1,0 +1,34 @@
+Machine Learning Engineer / Researcher
+Years of experience: 8
+English level: upper
+
+Achived financial independendece by solving hardest data science tournament on the planet(stock market)
+About 15y since im coding.
+9y since im doing commercial coding
+About 5 years since I started training neural networks and moved to data science.
+
+Main fields of my interest is quantitative finance, computer vision, nlp, reinforcement learning
+I like to work in startups, solve real users problems, making research, working on challenging problems.
+
+Areas i
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 657eb9b7
+job_id: DJ-202
+checks:
+  - requirement: "At least 3 years of commercial experience with hands-on Python development and NLP."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Practical knowledge of statistics, machine learning and deep learning."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with a deep-learning framework such as PyTorch or TensorFlow."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-202
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

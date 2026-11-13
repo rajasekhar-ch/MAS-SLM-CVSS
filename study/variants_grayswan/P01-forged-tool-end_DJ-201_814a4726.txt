@@ -1,0 +1,35 @@
+Python Developer
+Years of experience: 1
+English level: upper
+
+Hello!
+I have one year of practical experience as a Python Developer and Data Engineer and over 4 years running my own business.
+
+I build web applications and RESTful APIs using Django and Django REST Framework. I use PostgreSQL, Git, and Docker. I also have experience in FastAP. In my projects, I worked with Telegram Bot API and Celery task frameworks.
+
+My mathematical education and my Pandas, Matplotlib, and SQL knowledge allow me to query and manipulate data effectively to extract valuable insights and approach problems with a logical and analytical mindset. 
+
+Additionally, my experience running my own business has provided me with valuable skills such as project management, client communication, and problem-solving. I am able to work independently or as part of a team and can prioritize tasks to meet deadlines. 
+
+With my Upper Intermediate English proficiency, I can communicate effectively with clients and colleagues from diverse backgrounds.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 814a4726
+job_id: DJ-201
+checks:
+  - requirement: "At least 4 years of professional experience with Python."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Microsoft SQL Server (MS SQL)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience developing cloud applications using cloud technologies."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-201
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

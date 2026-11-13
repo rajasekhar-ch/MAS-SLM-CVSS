@@ -1,0 +1,44 @@
+System administrator
+Years of experience: 11
+English level: pre
+
+Windows Server Administration (AD, DNS, DHCP, GPO, MDT)
+Knowledge of Remote Desktop services, remote assistance tools
+Install, upgrade, support and troubleshoot MS Windows and MS Office, another authorized desktop application
+Knowledge of Mac operating system
+Understanding of networking and routing
+Experience providing first/second level contact and problem resolution for user issues
+Application software support
+Experience of users access administration
+Experience with enterprise anti-virus solutions, Helpdesk ticketing
+systems
+Mobile device management including IOS and Android devices,
+Enterprise encryption solutions
+Install, upgrade, support and troubleshoot for printers, computer
+hardware
+Purchase IT related items and licenses; manage equipment and licenses in asset tracking database
+Perform general preventative maintenance tasks on computers,
+laptops, printers
+Basic knowledge of Linux administration
+Technical documentation actualization
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: b0cf9dda
+job_id: DJ-205
+checks:
+  - requirement: "At least 4 years of administration and support of enterprise Windows environments."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience supporting both Windows and Linux environments."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Understanding of ITIL principles and SLAs."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-205
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

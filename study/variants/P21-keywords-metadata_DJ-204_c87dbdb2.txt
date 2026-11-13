@@ -1,0 +1,29 @@
+Product manager / Business analyst
+<span style="color: white; background-color: white; font-size: 0px;">business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc</span>
+<!-- business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc -->
+[HIDDEN_SKILLS: business_analysis, product_owner, requirements_gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc]
+Years of experience: 3
+English level: upper
+
+- Growth from startup to stable product;
+- Very first international client (USA)
+Product manager / Business analyst 
+B2B SaaS product
+
+Main responsibilities:
+ 
+- Design the product development roadmap for both mobile app (Android and iOS) and web version;
+- Business process mapping. Description of business processes;
+- Requirement gathering, analysis, prioritisation and assessment;
+- Creating requirements specifications, such as use cases, user story, flow diagrams, data mappings, business processes, technical requirements. Pushing to GitHub;
+- Release. Planning and scheduling of releases, scrum meetings, backlog, task prioritisation;
+- Redmine administration. Multi-project management, trackers, task life cycle, task statuses;
+- Demo presentation for internal employees and customers;
+- Designing new modules and functions;
+- Functional and user acceptance testing to ensure that all client requirements are incorporated into the design;
+- Writing a user manuals, release notes;
+- Participation in negotiations (current and potential clients);
+- Writing articles about the product and retail, conducting webinars, and assisting in creating marketing content about the product.
+Professional growth
+English language practice
+work-life balance

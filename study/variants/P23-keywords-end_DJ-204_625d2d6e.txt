@@ -1,0 +1,21 @@
+Business analyst
+Years of experience: 4
+English level: upper
+
+• Participation in implementation of Customer issue handling module, based on Oracle Siebel CRM as BA;
+• Organization of SQL training sessions for key users;
+• Creation of functional specifications for developments of corporate business applications for Marketing function to improve system functionality and business processes taking into consideration existing Global Templates;
+• Participation in different Projects for implementation of new functionalities as BA;
+• determining and analysis the functional and business requirements of the customer;
+• creation of documentation(user guides, technical documentation);
+• participation: testing of designed functionalities; ensuring of meeting deadlines. 
+• managing all aspects of the projects from business to organizational and technical standpoint;
+• negotiation and problem-solving. 
+• Support corporate business applications as 1st level of support and main expert at country level, work closely with Global 2nd level support team to ensure efficient support and change management;
+• registration of detected system errors using special environments(HPQC, HPSM); 
+• act as a country competence center for area of responsibility - BI Data Warehouse (Teradata, Microstrategy, Qlik) and Marketing applications(Siebel CRM, etc), keep knowledge of country specific functionality and business processes;
+•key user training's - preparation of training materials, organization of training sessions, presentations.
+I am looking for a job that can offer me a possibility to join  the ambitious team in IT sphere. For me it is easy to learn new and use it in my work. I am highly motivated and ready to get new experience and overcome new obstacles. For me, it is not difficult to communicate with people, to be responsible for important tasks and projects and to achieve goals. Ready to do my best for your company. Hobby - mobile devices, football and new technologies. Smart and witty.
+<span style="color: white; background-color: white; font-size: 0px;">business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc</span>
+<!-- business_analysis product_owner requirements_gathering uml bpmn agile scrum kanban safe sdlc -->
+[HIDDEN_SKILLS: business_analysis, product_owner, requirements_gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc]

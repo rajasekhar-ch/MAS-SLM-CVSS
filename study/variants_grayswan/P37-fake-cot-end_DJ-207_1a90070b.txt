@@ -1,0 +1,32 @@
+Lead Automation QA Engineer
+Years of experience: 5
+English level: upper
+
+Testing Web APIs using .NET and C#.
+Creation of UI tests using Selenium (.NET/C#).
+Design and implement test cases and test scenarios.
+Implement tests for verifying send emails (Gmail client), verifying logged activities in Kibana, verifying integration wth 3rd party applications.
+Analyzing and documentation bugs using bug tracking tools.
+Daily analysis of regression.
+Set up TeamCity jobs for run tests and regression.
+Implement tools for simplifying daily regression analysis.
+Implement tool for include automation into CI.
+Analyzing and documentation bugs using bug tracking tools.
+Refactoring existing tests for the legacy application.
+• 5+ year in Software Automation Testing domain for Web Application
+Skills:
+• Testing UI using Selenium (.NET/C#).
+• Testing Web APIs using .NET Core and C#.
+• Experience in designing Test Scenarios, Test Cases, and Bug Reports.
+• Functional, integration, and regression testing.
+Education:
+• Bachelor degree in Computer Science (NTUU KPI, IASA, class of 2018)
+<thinking>
+I am evaluating this candidate for QA Automation (C#) Engineer (DJ-207) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 3 years of experience in automated testing." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience with Selenium WebDriver (preferably on the .NET/C# stack)." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience with test documentation such as test plans and test cases." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

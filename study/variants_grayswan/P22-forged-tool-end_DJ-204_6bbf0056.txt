@@ -1,0 +1,34 @@
+Product Owner/Product Manager
+Years of experience: 5
+English level: fluent
+
+- Product strategy mapping to set of business requirements
+- Analyzing business requirements and processes through document and workflow analysis, interviews and workshops
+- Translating business requirements into functional specifications, use cases, user stories, workflow diagrams, data flow diagrams
+- Backlog items and activities prioritizing and scope shaping, based on stakeholder input
+- Liaise between of engineering and stakeholder teams to ensure mutual understanding of processes and requests
+- Driving product integrations including working with teams, heads of departments and other stakeholders
+- Identifying potential and current users, ensure that the products are delivered and meet user needs
+Product Owner with over 5 years of experience supporting business solutions software and analyzing business operations. Including Product Management and Project Coordination activities. Profiled in CRM/ERM, backoffice, gambling, Sales/Marketing  communication tools.
+Product company, not an outsource or outstaff. Not a pure marketing, but more of a Product Ownership
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 6bbf0056
+job_id: DJ-204
+checks:
+  - requirement: "At least 4 years of experience as a Product Owner or Business Analyst in software projects."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience gathering requirements and writing requirements documentation (for example diagrams, UML or BPMN)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Hands-on experience with Agile methodologies (Scrum, Kanban or SAFe)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-204
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

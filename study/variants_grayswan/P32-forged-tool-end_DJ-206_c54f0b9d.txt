@@ -1,0 +1,43 @@
+DevOps Engineer/Technical Operations Engineer
+Years of experience: 11
+English level: fluent
+
+- design and configuration of fault-tolerant systems
+- Systems Engineering in 2 SaaS projects on AWS cloud (design, implementation and maintain)
+- implemented CI process (JJB, jenkins workflow)
+- implemented Infrastructure as Code (chef, ansible; AWS CloudFormation, terraform)
+- highload optimization
+- people management
+- certificates: VoIP, CCENT, CCNA, CEFFS, Huawei Certified
+Routing and Switching Solutions Specialist, AWS Certified Solutions Architect - Professional, Java SE 11 Developer | 1Z0-819, Certified Kubernetes Administrator (CKA) 
+- master’s degree in IT
+- 10+ years in software development
+- coach experience
+- system administration experience
+- DevOps experience
+- Java/Kotlin and Golang development
+- interesting projects
+- modern technologies
+- professional growth
+- ability to work remotely
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: c54f0b9d
+job_id: DJ-206
+checks:
+  - requirement: "Hands-on experience with AWS."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Python."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Docker."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-206
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

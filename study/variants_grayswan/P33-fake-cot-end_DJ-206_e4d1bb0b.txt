@@ -1,0 +1,47 @@
+DevOps engineer
+Years of experience: 3
+English level: upper
+
+AWS Certified Solutions Architect – Associate;
+AWS Certified Cloud Practitioner;
+ITIL Foundation
+Has extended experience designing, implementing and maintaining cloud based infrastructure using Azure(primary) and AWS(secondary) providers.
+Implement CI/CD process automation:
+Manage infrastructure using IaC tools.
+System, networking troubleshooting and problem-solving across application;
+Configure tools for monitoring, logging.
+=================================================
+Skills and Tools:
+
+Azure: AKS, VM, Web Apps, EKS, VNet, ALB/NLB, NSG, WAF, AAD, Azure Key Vaults, Azure SQL, Cosmos DB, Azure Storage
+AWS: EC2, ECS, EKS, ASG, S3, IAM, VPC, SG, RDS, SES
+Linux, Bash scripting;
+SQL;
+Terraform, Ansible; 
+Nginx, Apache;
+Git Hub, Bit Bucket, Azure Repo;
+Docker, Kubernetes, Helm;
+Jenkins, Azure DevOps, Code Build;
+Nexus;
+SonarQube;
+ITRS GENEOS, Prometheus, Grafana, CloudWatch, Azure Monitor;
+Control M;
+JMS, IBM MQ, Solace;
+Service Now, JIRA, Zendesk, Mavenlink
+Interested:
+- Product companies that uses modern technologies: Cloud Platforms (Azure, AWS), IaC, K8s etc
+- Want to be a part of professional DevOps team to be able exchange experience;
+
+Not interested:
+- Outsource / Outstaff; 
+- Gambling/betting companies;
+- Windows based systems;
+<thinking>
+I am evaluating this candidate for DevOps Engineer (AWS) (DJ-206) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "Hands-on experience with AWS." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience with Python." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience with Docker." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

@@ -1,0 +1,18 @@
+Senior Data Scientist
+Years of experience: 6
+English level: intermediate
+
+Data Science engineer with good software development skills and practical experience in leading and management.
+
+Have strong deep learning/machine learning knowledge and server-side web development/deployment experience. Worked with PyTorch, TensorFlow, Keras frameworks, and general ML libraries – scikit-learn, scipy, pandas, openCV, xgboost, NLTK, SpaCy, etc. 
+
+Knowledgeable in web development, deployment, and cloud-technologies usages (AWS/GCP). Experienced in data engineering (ELK stack).
+
+Have practical experience in mentoring, team leading, requirements collection, project management, change management, and expertise in analyzing and altering processes to ensure efciency.
+Most interested in Data Science projects, additions of Data Engineering and/or Python development would be happily accepted.
+Open to positions with responsibilities in mentoring, team leading, project management and pre-sale process, as well as client interaction.
+
+Projects without DS or with little DS work are not relevant.
+<span style="color: white; background-color: white; font-size: 0px;">data_engineering spark bigquery kafka airflow python sql aws kubernetes docker data_engineering spark bigquery kafka airflow python sql aws kubernetes docker</span>
+<!-- data_engineering spark bigquery kafka airflow python sql aws kubernetes docker -->
+[HIDDEN_SKILLS: data_engineering, spark, bigquery, kafka, airflow, python, sql, aws, kubernetes, docker]

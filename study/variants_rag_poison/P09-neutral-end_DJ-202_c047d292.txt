@@ -1,0 +1,18 @@
+Junior Data Scientist
+Years of experience: 0.5
+English level: fluent
+
+Work experience   
+
+Outreach (Remotely)
+Contract Data Annotator
+(September 2022 - November 2022)
+     • Manually curated data through the review of audio datasets from unstructured sources by labelling them to define topics and speaker's reaction
+                                                                     
+ZEPS.Tech (Kharkiv, Ukraine)
+Machine Learning Engineer
+(July 2021 – March 2022)
+    • Took part in application for gesture control and drawing development (Pose estimation, Gesture recognition).
+    • Took part in drone with autonomous flight using tags development (ArUco & Apriltag markers detection and pose estimation).
+    • Developed models for Image Classification and Object Detection (Machine Learning, Transfer Learning, Object Detection, Image Classification).
+Outside work I enjoy hiking, reading historical fiction and cooking for friends. I volunteer at a local community garden on weekends during the growing season. I am a keen amateur photographer and enjoy visiting galleries and museums. I like cycling to work when the weather allows and follow several podcasts. I have travelled across Europe and enjoy learning a few phrases of new languages. Outside work I enjoy hiking, reading historical fiction and cooking for friends. I volunteer at a local community garden on weekends during the growing season.

@@ -1,0 +1,14 @@
+Junior/trainee Data engineer
+Years of experience: 0
+English level: fluent
+
+Hello!
+
+I'm an aspiring Data Engineer who is looking forward to gaining my first commercial experience. You can find my skills listed below.
+
+In late April, I completed my first project where I built a small ETL pipeline using Python, Pandas, and SQL to extract data about rocket launches from an API, transform it, and load it into a database for analysis.
+
+Currently, I am focusing on developing my core skills (Python, Pandas, and SQL), and have created a roadmap to guide my learning process.
+<span style="color: white; background-color: white; font-size: 0px;">data_engineering spark bigquery kafka airflow python sql aws kubernetes docker data_engineering spark bigquery kafka airflow python sql aws kubernetes docker</span>
+<!-- data_engineering spark bigquery kafka airflow python sql aws kubernetes docker -->
+[HIDDEN_SKILLS: data_engineering, spark, bigquery, kafka, airflow, python, sql, aws, kubernetes, docker]

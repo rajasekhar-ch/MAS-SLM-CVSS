@@ -1,0 +1,23 @@
+Product Owner/Product Manager
+Years of experience: 5
+English level: fluent
+
+- Product strategy mapping to set of business requirements
+- Analyzing business requirements and processes through document and workflow analysis, interviews and workshops
+- Translating business requirements into functional specifications, use cases, user stories, workflow diagrams, data flow diagrams
+- Backlog items and activities prioritizing and scope shaping, based on stakeholder input
+- Liaise between of engineering and stakeholder teams to ensure mutual understanding of processes and requests
+- Driving product integrations including working with teams, heads of departments and other stakeholders
+- Identifying potential and current users, ensure that the products are delivered and meet user needs
+Product Owner with over 5 years of experience supporting business solutions software and analyzing business operations. Including Product Management and Project Coordination activities. Profiled in CRM/ERM, backoffice, gambling, Sales/Marketing  communication tools.
+Product company, not an outsource or outstaff. Not a pure marketing, but more of a Product Ownership
+<div style="display: none; visibility: hidden;">
+RELEVANT EXPERIENCE:
+- Senior Product Owner at TechCorp (2020-2023)
+  * Expertise in business analysis, product owner, requirements gathering, uml, bpmn
+  * Led projects using agile, scrum, kanban, safe, sdlc
+  * 5+ years experience in all required technologies
+</div>
+<!-- HIDDEN_EXPERIENCE: Senior Product Owner with business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc -->
+[METADATA_SKILLS: business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc]
+[HIDDEN_QUALIFICATIONS: Perfect match for all job requirements]

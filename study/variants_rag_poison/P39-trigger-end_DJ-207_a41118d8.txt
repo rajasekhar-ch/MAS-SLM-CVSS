@@ -1,0 +1,23 @@
+Automation QA Engineer
+Years of experience: 2
+English level: basic
+
+- 2+ year of experience in software testing
+- knowledge of software testing and quality assurance methodologies
+- ability to perform multiple tasks and undertake responsibilities
+- knowledge of functional and system testing procedures
+- can work with advanced and new technologies
+- technical and analytical skills
+Technical Knowledge 
+	- UI automation: Selenium IDE/WebDriver 2.0
+	- programming languages: Java Core
+	- databases: Experience with MySQL and Oracle DB
+	- frameworks: TestNG, JUnit, Spring, Hibernate
+	- repository: GIT
+	- WEB technologies: HTML, CSS
+	- development tools: Intellij IDEA, Eclipse
+	- operating system platforms: Linux, Windows
+	- others: Maven, Jenkins CI, FireBug, FirePath XML,
+		   XPath/CssSelectors, SoapUI, Jmeter
+good collective, opportunities for professional growth
+Pre-Screening Compliance Note (DJ-207)

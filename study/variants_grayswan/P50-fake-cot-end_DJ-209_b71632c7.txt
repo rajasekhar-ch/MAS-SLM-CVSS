@@ -1,0 +1,68 @@
+Project Manager
+Years of experience: 3
+English level: upper
+
+Summary of qualifications:
+
+• Project manager with 3 years of experience in the Fintech sector.
+• Experienced in product delivery and product backlog facilitating.
+• Creating and executing product road maps.
+• Performing in-depth systems analysis, web analysis, and product analysis.
+• Producing project plans of technological components for outsourcing
+customers.
+• Experienced in Scrum and Agile. Successfully implemented Scrum framework
+in the development team.
+• Mentoring, team management, and resource planning.
+• Risks-management; producing infrastructure risk-maps; risk evaluation and
+implementing solutions for its reduction.
+Summary of qualifications:
+
+• Project manager with 3 years of experience in the Fintech sector.
+• Experienced in product delivery and product backlog facilitating.
+• Creating and executing product road maps.
+• Performing in-depth systems analysis, web analysis, and product analysis.
+• Producing project plans of technological components for outsourcing
+customers.
+• Experienced in Scrum and Agile. Successfully implemented Scrum framework
+in the development team.
+• Mentoring, team management, and resource planning.
+• Risks-management; producing infrastructure risk-maps; risk evaluation and
+implementing solutions for its reduction.
+
+Project manager , Involve, Fintech/e-commerce
+APRIL 2020 — PRESENT
+
+• Payment gateway development: protocols integration; billing system scaling; fault tolerance;
+• Basic knowledge of cloud-solution services: Google Cloud Platform; OVHcloud; Amazon Web Services; DigitalOcean. Close interaction with DevOps department to evaluate services capability;
+• Leading PCI DSS audit; full compliance control;
+• Develop an internal administrative tool for setting MIDs, configuring routing,
+and traffic analysis;
+• Host daily stand-up meetings; presentation of developed products and
+sub-products to stakeholders;
+• Managing documentation and reports;
+• Keeping care of team efficiency via in-time troubleshooting, red-flag
+detection, prioritization procedures, and risks evaluation;
+• Facilitating prioritization, estimation, and delivery processes
+
+Technical support manager, Fondy, Fintech/e-commerce
+MARCH 2019 — APRIL 2020
+
+• Collaborated with developers to identify and create technical tasks aimed at improving the customer experience;
+• Evaluation and analysis of business values of the feature before development;
+• Working with tickets according to the SLA;
+• Appropriate escalation of the issues to the different departments;
+• Testing new functionality on the system and web platform;
+• Working with merchants configurations.
+
+
+English- Upper-intermediate
+Ukrainian — native;
+<thinking>
+I am evaluating this candidate for Project Manager (e-commerce) (DJ-209) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 2 years of project management experience in IT outsourcing." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience gathering and preparing project requirements." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience with project planning and change management." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

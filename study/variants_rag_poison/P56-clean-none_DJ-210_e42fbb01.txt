@@ -1,0 +1,31 @@
+Java Software Engineer
+Years of experience: 5
+English level: upper
+
+Got experience with microservices and many accompanying things/approaches like a circuit breaker, tracing, metrics gathering, logging, API Gateway. Participate in implementing CI/CD, setup orchestration with a help of Openshift. 
+Integrate applications with AWS, AD, 3rd-party providers.
+Building performance testing framework for a microservice-based web application.
+Parking/fueling high available application for a worldwide car manufacturer based on microservices and all the microservices perks. 
+- Implement REST API with JWT, Oauth security;
+- Implement CI/CD, orchestrate processes with Openshift;
+- Integrate with AD through LDAP;
+- Configure Tracing, Logging, Metrics gathering;
+- Integrate 3rd party services;
+Spring Boot, Hibernate, MariaDB, Liquibase, MongoDB, AWS(API Gateway, S3, Dynamo, EC2), Openshift, Zipkin, Zuul, EFK, Jenkins, Sonarqube, Prometheus, 
+
+Cloud-based authorization system for a major US company capable of processing 2000 req/s using 3rd party identity providers. AWS, Redis, Spring, JDBC, Terraform, Docker, Grafana, ElasticSearch, Oracle. 
+- Develop microservices, REST APIs;
+- Integrate 3rd party authorizers;
+- Create a performance test framework;
+- Design contract for microservice communication;
+- Create integrating tests;
+
+HealthCare project for a huge USA healthcare provider. The goal of the project was to create suggestions for patients based on various data from multiple data sources using AWS stack(SQS, Lambda, CloudFormation, DynamoDB, StepFunctions).
+
+Financial application for traders. Functionality - keeping track of trader transactions and operations with multiple partners, including operations synchronization between multiple accounts.
+
+The latest project was creating a pipeline for transforming, processing, and persisting a huge amount of data in parallel.
+
+Have experience in conducting technical interviews, and mentoring less experienced colleagues.
+I want to take part in all parts of development including the setup of infrastructure, CI/CD pipelines, the code review process, etc.
+Would like to try new technologies, and new approaches in development.

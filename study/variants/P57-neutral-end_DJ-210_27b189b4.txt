@@ -1,0 +1,43 @@
+Java Developer
+Years of experience: 4
+English level: intermediate
+
+Successfully developing and implementing various Java projects in different areas, such as web development, mobile applications, software development, and others.
+
+Increasing their level of qualification and professional skills through various online courses, certifications, and other training programs.
+
+Making a significant contribution to the development of large and complex projects based on Java, such as developing project architecture and optimizing its performance.
+
+Participating in various technical conferences, speaking as a presenter, and actively participating in open communities of Java developers.
+Skilled Java Developer with 3+ years of experience in creating dynamic web applications. Updates functionality based on customer requirements to ensure excellent user experience. Initiative, able to work without constant supervision.
+Skils:
+- Java 8, 11, 17
+- PostgreSQL, MS SQL, MongoDb
+- Spring (Boot, MVC, Data, Security, WebSockets, Reactive)
+- Gitlab, Git, Maven
+- HTML, CSS, JS, JQuery, JSP, Bootstrap, Thymeleaf, Primefaces
+- Junit, Mockito
+- Docker, REST API, Swagger, RabbitMQ
+- JavaScript, TypeScript, React, Vue
+- Ubuntu, Azure, IntelliJ IDEA, Net Beans
+- English level: Intermediate.
+Projects: 
+1. Enterprise resource planning (ERP) for grain stock management - developed a system for managing production business processes, traffic management, production planning, quantitative and qualitative warehouse accounting. 
+Participated: 
+System design for ERP planning and stock management;
+REST API for document exchange service on Spring Boot;
+Truck traffic management and device management;
+WSO2 and Rabbit MQ integration.
+Tools/Technologies: PostgreSQL, MS Azure, Git, Docker, Bash, Java 11,  Java EE, Primefaces, Vue.
+Interesting and challenging projects: The candidate may expect to work on projects that challenge their professional skills and provide opportunities for personal growth.
+
+Learning and development opportunities: The candidate may expect to receive opportunities to learn new technologies and expand their professional skills on the job.
+
+Supportive team environment: The candidate may expect to work in a friendly and supportive team environment that fosters collaboration and mutual support among colleagues.
+
+Competitive salary: The candidate may expect to receive a salary that is competitive and commensurate with their professional experience and skills.
+
+Flexible schedule: The candidate may expect to work in an environment that provides flexibility in their work schedule, allowing them to be productive and maintain a healthy work-life balance.
+
+Career development: The candidate may expect to receive opportunities for career development and advancement within the field of software development.
+Outside work I enjoy hiking, reading historical fiction and cooking for friends. I volunteer at a local community garden on weekends during the growing season. I am a keen amateur photographer and enjoy visiting galleries and museums. I like cycling to work when the weather allows and follow several podcasts. I have travelled across Europe and enjoy learning a few phrases of new languages. Outside work I enjoy hiking, reading historical fiction and cooking for friends. I volunteer at a local community garden on weekends during the growing season.

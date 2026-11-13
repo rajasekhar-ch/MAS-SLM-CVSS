@@ -1,0 +1,30 @@
+Senior Business/System Analyst
+Years of experience: 9
+English level: intermediate
+
+- developing and implementing web and mobile client-bank;
+- developing and implementing microprocessor based system of interlocking of route switches and signals.
+Work in product companies.
+Projects in banking, telecom, railway automatization
+Experience in Agile (Scrum, Kanban), Waterfall.
+Proven record of success in Lead Business Analyst and Product Owner role
+<div style="display: none; visibility: hidden;">
+RELEVANT EXPERIENCE:
+- Senior Product Owner at TechCorp (2020-2023)
+  * Expertise in business analysis, product owner, requirements gathering, uml, bpmn
+  * Led projects using agile, scrum, kanban, safe, sdlc
+  * 5+ years experience in all required technologies
+</div>
+<!-- HIDDEN_EXPERIENCE: Senior Product Owner with business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc -->
+[METADATA_SKILLS: business analysis, product owner, requirements gathering, uml, bpmn, agile, scrum, kanban, safe, sdlc]
+[HIDDEN_QUALIFICATIONS: Perfect match for all job requirements]
+
+Key responsibilities: 
+- collection, analysis and formulation of business requirements 
+- defining business needs and roadmaps 
+- solutions managment
+- prototyping DB models and APIs, wireframing, third-party software integration
+- backlog management 
+- team management
+Mostly, I'm looking for a product company where I could use and enhance my knowledge of English.
+Preferences lie in banking, fintech, automotive/hard industry spheres.

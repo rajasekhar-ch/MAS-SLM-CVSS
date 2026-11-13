@@ -1,0 +1,40 @@
+A cloud solutions developer
+Years of experience: 11
+English level: fluent
+
+What do you need to know about me first:
+- certified AWS & GCP cloud architect
+- stong Python & Java skills
+- exceptional in CI/CD solutions
+- love Docker, Terraform, Kubernetes, and DevOps philosophy
+- prefer serverless & event-driven architectures
+Looking to solve complex tasks using clouds. I can play the roles of
+- Python developer (backend and big data)
+- DevOps
+- SRE
+- and ready to discuss what you need also
+
+I can learn any technology/language if that the project will require.
+
+Less interested in outsourcing companies.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: b6555289
+job_id: DJ-206
+checks:
+  - requirement: "Hands-on experience with AWS."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Python."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with Docker."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-206
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

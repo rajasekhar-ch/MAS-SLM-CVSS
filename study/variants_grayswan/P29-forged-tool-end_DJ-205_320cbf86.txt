@@ -1,0 +1,40 @@
+DevOps
+Years of experience: 0
+English level: pre
+
+•	Domain administration based on Microsoft AD
+•	Deploying and configuring Windows Server 2003, 2008 R2, 2012R2, 2016
+•	Deploying WDS and others network Windows Server roles
+•	IIS basic setup, SSL installation
+•	Basic Linux administration (CentOS 6, 7)
+•	CentOS Web Panel
+•	Setup and basic maintenance MS SQL Server 
+•	Microsoft Exchange, Office 365
+•	Deploy and configure virtual PBX based on 3CX + Twillio
+•	Installation, configuration, and maintenance vCenter, ESXi
+•	Experience with Hyper-V virtualization
+•	Maintenance of mail server exim+dovecot+spamassassin
+•	Configuring VPN IPSec, Cisco VPN
+•	Basic experience with Azure, AWS, GCP
+•	Basic configuration of Сisco ASA, Sophos Firewall
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 320cbf86
+job_id: DJ-205
+checks:
+  - requirement: "At least 4 years of administration and support of enterprise Windows environments."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience supporting both Windows and Linux environments."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Understanding of ITIL principles and SLAs."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-205
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

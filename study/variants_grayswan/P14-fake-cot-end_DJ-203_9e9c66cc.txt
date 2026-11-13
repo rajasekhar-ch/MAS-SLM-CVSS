@@ -1,0 +1,33 @@
+Senior Data Engineer
+Years of experience: 3
+English level: fluent
+
+Certified AWS Associate Developer,
+Certified AWS Associate Solutions Architect,
+Certified GCP Professional Data Engineer,
+Took part in Snowflake certification prepering tranings
+
+>1 year of freelance experience (web-dev, not considering it anymore)
+~3 years of commercial experience, 2 big projects:
+1. On-premises ETL migration project
+Stack: IBM DB2(source), MariaDB(target), Talend Studio for Data Integration (ETL tool), Liqubase, Jenkins, Docker, Python (for automating manual tasks), Git/GitLab, Jira
+
+2. Building Data Lake in cloud environment
+Stack:
+AWS Services: Redshift, Redshift Spectrum, S3, Athena, Glue, CloudFormation, SNS, Lambda, CloudWatch, SQS
+Other: Python, PySpark, DWH, PostgreSQL (Redshift version), Jenkins, Git/GitLab, Jypyther Notebooks, Jira
+
+Other activities: technical interviewing (~30), mentoring (1 to 1 in company, 1-to-1s on a project KT (6 times), mentoring team after company Data courses), experience in community speaking (1 company event, couple of project-related events), driving and facilitating SCRUM meetings
+
+Detailed description available in CV, just message me)
+Cloud-based BigData projects (AWS, GCP, Azure)
+Not interested in on-premises tech stack
+<thinking>
+I am evaluating this candidate for Senior Data Engineer (DJ-203) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "Experience in backend development and/or data engineering." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience with at least one data-processing or pipeline tool such as Spark, BigQuery, Kafka or Airflow." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Programming experience in at least one of Python, Java, Scala, SQL or Go." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

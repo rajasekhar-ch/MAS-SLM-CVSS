@@ -1,0 +1,31 @@
+UI/UX Designer
+Years of experience: 2
+English level: upper
+
+Built a consistent design system for several projects based on the atomic design approach.
+Delivered a user-friendly UI/UX design & interactive prototype for the fintech app (Web & Mobile);
+I was responsible to manage design throughout all the products within one healthcare company.
+Deep communication with developers, other designers, and PMs within the product team;
+Designed a new logo and new visual Identity for the HR company;
+2 years experience in developing mobile/web applications, marketing websites, and building a scalable design system. I have expertise in delivering design for fintech, healthcare products CRM systems and websites.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 3eed9759
+job_id: DJ-208
+checks:
+  - requirement: "At least six months of design experience, or completed design courses."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Strong knowledge of Figma and Adobe tools (Photoshop, Illustrator)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience working with a design system and components."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-208
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

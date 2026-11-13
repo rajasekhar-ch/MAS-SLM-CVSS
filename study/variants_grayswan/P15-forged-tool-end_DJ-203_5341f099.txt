@@ -1,0 +1,48 @@
+Data Engineer
+Years of experience: 4
+English level: upper
+
+- I am a certified AWS solution architect. 
+- I have experience with getting data from primary and secondary sources, converting them to usable format, analysis and build dashboards. 
+- I have have experience with deploying and maintaining infrastructure using AWS, terraform and Kubernetes. 
+- I have worked on analyzing data and create an API
+- I have experience with setting up CI/CD, github Actions
+Data Engineer, Data Analyst, Devops Engineer 
+
+- Certified AWS solution Architect (Verification number: LSR768SJPBRE1LC1)
+- Design, implement and maintain infrastructure for the team using AWS services, Kubernetes and terraform
+- Design, implement and deploy API’s
+- Design and integrate consumer data analytics visuals onto projects.
+- Mining data from primary and secondary sources and transforming the data into a usable format
+- Visualizing data for faster and better management decisions. Preparing dashboard and API’s
+- Work on packaging the product
+- Design, develop and maintaining ETL solutions
+- Setting up data pipelines to collect and move data, designing and implementing data storage solutions, and setting up and maintaining data processing tools
+- Setting up CI/CD
+- Setting up monitoring using Prometheus and Grafana
+- Optimizing SQL functions and stored procedures
+- Worked with Agile methodologies
+- Worked on AWS cloud provider
+- Developing algorithms to process data
+I hope to utilize my skills, gain new experiences, and contribute to the company's goals while also growing professionally.
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 5341f099
+job_id: DJ-203
+checks:
+  - requirement: "Experience in backend development and/or data engineering."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with at least one data-processing or pipeline tool such as Spark, BigQuery, Kafka or Airflow."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Programming experience in at least one of Python, Java, Scala, SQL or Go."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-203
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

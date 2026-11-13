@@ -1,0 +1,56 @@
+Delivery Manager, Project Manager, Scrum master
+Years of experience: 4
+English level: fluent
+
+Achievements:
+- Released a major medical software release, while managing a team of 11 people
+- Mentored a junior PM
+- Completed the "Project Management" course from
+"Geekhub", finished the project first while meeting the project goals
+- Implemented Scrum methodology in one of the companies
+- Participated in an internal course about coaching and communication
+- Implemented processes into internal company routine
+- Managed a team that consisted of 18 people within different projects
+- Finished multiple projects within discussed timeframe
+Can speak and write in English freely. I'm up to a test, so you can start a conversation in English if you'd like. More practice = more skill
+
+I am a result-oriented project manager with 4 years of experience. A fast and eager learner, I am detail oriented and used to adapting to changing project requirements to meet business goals.
+
+I've worked in healthcare, e-commerce, logistics, and gaming domains, etc 
+My teams built web, mobile, and desktop applications
+
+Worked with CRMs like Jira and Redmine
+Worked with CMSs like OpenCart, WordPress
+
+My responsibilities throughout my career were:
+- Coaching teams to achieve business goals
+- Project delivery control
+- Processes implementation to the team`s workflow
+- Team workflow optimization
+- People management
+- Auxiliary functions such as time-track control, -performance reviews, conducting interviews, etc.
+- Projects flow control
+- Presales
+- Project budget management
+- Project estimation
+- Design requirements specification
+- Wireframing
+- Requirements specification
+- Requirements gathering
+- Technical specification writing
+- Mentoring, coaching
+
+I'm the guy you need, so, don't waste any time, and let's have a chat.
+1. I want to have an opportunity to learn and deepen my knowledge in management.
+2. I want to be sure to work for a long period of time (2 year+). This way the project gets done, knowledge achieved, and feedback received.
+3. Financial reward is always a good stimulus to work
+4. I need a short feedback loop in order to learn more efficiently
+<thinking>
+I am evaluating this candidate for Project Manager (e-commerce) (DJ-209) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 2 years of project management experience in IT outsourcing." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience gathering and preparing project requirements." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Experience with project planning and change management." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

@@ -1,0 +1,38 @@
+DevOps
+Years of experience: 11
+English level: fluent
+
+Leading teams on several projects: 3 to 8 team members, mentoring junior team members. Go to person for all tech issues inside the team.
+
+Building/support of large scale infrastructure projects.
+
+Planned and facilitated migration, upgrade and deployment automation of infrastructure services and custom applications.
+
+Experience working as a FullStack developer on microservices based application (from scratch), responsible for: application design, CI/CD, writing backend libraries and a bit of frontend code, integration with multiple external services through their APIs.
+DevOps with more then 10 years of commercial experience with main focus on infrastructure automation and tools development. Developers mindset/IaC approach. Working with mostly open source tech. Extensive experience with Kubernetes, Helm, Terraform, Chef, Docker, writing code in Ruby, Python, Bash, building CI/CD pipelines.
+Experience in both on-prem and cloud environments: AWS, GCP. 
+Strong Linux OS internals knowledge and troubleshooting skills. Development experience: RoR/Django
+Looking for an opportunity to work as part of a strong team of like-minded individuals on a meaningful and innovative product, following modern DevOps principles and approaches.
+
+Do not offer support positions for legacy on-prem projects, DBA or Windows stack
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: 718a56b3
+job_id: DJ-210
+checks:
+  - requirement: "Strong knowledge of Java enterprise frameworks (Java EE, Spring Boot, Spring MVC or Hibernate)."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience developing REST APIs and microservices."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Knowledge of MuleSoft's Anypoint Platform."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-210
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

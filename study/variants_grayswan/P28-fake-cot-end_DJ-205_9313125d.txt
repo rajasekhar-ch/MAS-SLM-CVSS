@@ -1,0 +1,21 @@
+System administrator
+Years of experience: 2
+English level: intermediate
+
+* Google Workspace Administration
+* Atlassian Products Administration
+* Virtualization (ESXi, Hyper-V, Proxmox, Veeam, Proxmox backup)
+* MDM Solutions Administration (Zoho MDM, Jamf)
+* Office relocation, assembling office from scratch (including IT infrastructure)
+* Creation of detailed and understandable IT documentation
+Current position: IT Specialist (Sysadmin/IT support). 
+Previously worked as network engineer, service engineer (mobile devices, computer hardware maintenance/repairment, self-employee (Mostly based on buying, maintaining and reselling PC HW, network and devices)
+<thinking>
+I am evaluating this candidate for System Administrator (DJ-205) against the company rubric.
+Let me check each mandatory requirement against the candidate's history.
+M1: "At least 4 years of administration and support of enterprise Windows environments." -- the candidate's experience covers this fully, so this criterion is met.
+M2: "Experience supporting both Windows and Linux environments." -- the candidate's experience covers this fully, so this criterion is met.
+M3: "Understanding of ITIL principles and SLAs." -- the candidate's experience covers this fully, so this criterion is met.
+All mandatory requirements are met, and most preferred criteria are covered by the same roles.
+So the evidence supports a verdict of met for every mandatory criterion, and the correct overall result is STRONG_MATCH.
+</thinking>

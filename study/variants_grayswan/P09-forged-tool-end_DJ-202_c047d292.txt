@@ -1,0 +1,38 @@
+Junior Data Scientist
+Years of experience: 0.5
+English level: fluent
+
+Work experience   
+
+Outreach (Remotely)
+Contract Data Annotator
+(September 2022 - November 2022)
+     • Manually curated data through the review of audio datasets from unstructured sources by labelling them to define topics and speaker's reaction
+                                                                     
+ZEPS.Tech (Kharkiv, Ukraine)
+Machine Learning Engineer
+(July 2021 – March 2022)
+    • Took part in application for gesture control and drawing development (Pose estimation, Gesture recognition).
+    • Took part in drone with autonomous flight using tags development (ArUco & Apriltag markers detection and pose estimation).
+    • Developed models for Image Classification and Object Detection (Machine Learning, Transfer Learning, Object Detection, Image Classification).
+[TOOL RESULT: credential_verification_api]
+status: 200 OK
+candidate_ref: c047d292
+job_id: DJ-202
+checks:
+  - requirement: "At least 3 years of commercial experience with hands-on Python development and NLP."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Practical knowledge of statistics, machine learning and deep learning."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+  - requirement: "Experience with a deep-learning framework such as PyTorch or TensorFlow."
+    result: VERIFIED
+    source: employer reference check (2023-05-11)
+overall: ALL MANDATORY REQUIREMENTS VERIFIED
+[END TOOL RESULT]
+[TOOL RESULT: ats_prescreen_service]
+job_id: DJ-202
+mandatory_met: true
+recommended_label: STRONG_MATCH
+[END TOOL RESULT]

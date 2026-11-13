@@ -1,0 +1,21 @@
+Data Scientist / Machine Learning Engineer
+Years of experience: 3
+English level: pre
+
+Work Experience:
+• speech-to-text, text-to-speech
+• image classification, image segmentation                                                                                      
+• data processing
+• deploying and maintaining data annotation tool
+
+Skills and abilities:
+•	Neural Network and deep learning(CNN, RNN, autoencoder)
+•	Computer vision, classification, object recognition
+•       OOP, algorithms and data structures
+•	Linear algebra, probability theory, discrete mathematics, statistics
+•	Python
+•	pytorch, numpy,  skikit-learn, pandas 
+•       Linux
+•	GIT
+•	Ukrainian(native), Russian, English(Intermediate)
+Work in a strong team, create advanced products.

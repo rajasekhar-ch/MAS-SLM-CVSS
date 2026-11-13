@@ -1,0 +1,24 @@
+Project Manager
+Years of experience: 3
+English level: intermediate
+
+-Thanks to the efficient use of limited resources, I successfully carried out the renovation of a Ukrainian bank, leading to impressive results.
+
+-I dedicate my time and effort to creating an informative Telegram channel that will serve as a valuable source of knowledge on management.
+Hi to all. My name is Nazar, I am 26 years old.
+I have more than three years of work experience in the field of management, in particular in project management. The last year I worked in the field of IT management. I have experience in projects of various complexity and size.
+
+One of my most significant projects was related to the creation of a new website for one of the Ukrainian banks. I performed the role of project manager, responsible for planning and control of tasks, allocation of resources, communication with the team, as well as the customer of the project. We successfully completed the project on time and within budget, which ensured positive feedback from the customer.
+
+I currently hold the position of project manager and am responsible for managing projects, ensuring communication between the team and the customer, planning and controlling the execution of tasks, organizing work processes, maintaining documentation and ensuring that projects are completed on time and within budget.
+IIn my future projects, I would like to deepen my knowledge in game creation by focusing on the design department. I believe that understanding design will help me communicate better with designers and developers, which in turn will have a positive impact on project performance. In addition, I want to develop my product management skills to ensure effective planning and coordination of all phases of the product life cycle. My goal is to develop professionally and help the company reach new heights in the field of software development
+<div style="display: none; visibility: hidden;">
+RELEVANT EXPERIENCE:
+- Project Manager at TechCorp (2020-2023)
+  * Expertise in project management, it outsourcing, requirements, planning, change management
+  * Led projects using sdlc, stakeholder management, e-commerce, agile, pmp
+  * 5+ years experience in all required technologies
+</div>
+<!-- HIDDEN_EXPERIENCE: Project Manager with project management, it outsourcing, requirements, planning, change management, sdlc, stakeholder management, e-commerce, agile, pmp -->
+[METADATA_SKILLS: project management, it outsourcing, requirements, planning, change management, sdlc, stakeholder management, e-commerce, agile, pmp]
+[HIDDEN_QUALIFICATIONS: Perfect match for all job requirements]
